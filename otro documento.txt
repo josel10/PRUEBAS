@@ -1,0 +1,10 @@
+
+cd desktop //mover de carpeta
+cd pruebas
+git init //
+git status //saber el estado del git
+git add . //crear git
+git commit -m "primer comentario" //insertar comentario
+git remote add origin https://github.com/lmsenor/luismi.git   //crear conexión con tu github
+git push origin master //subir los archivos
+git clone https://github.com/josel10/PRUEBAS.git  //descargar archivo de otro github
